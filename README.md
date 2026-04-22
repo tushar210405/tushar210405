@@ -130,7 +130,7 @@
 ---
 
 ## 🎯 Current Goals
-- 🚀 Crack top internship (Google STEP / similar)
+- 🚀 Crack top internship 
 - 🤖 Build production-level GenAI apps
 - ⚙️ Master DSA + System Design
 
