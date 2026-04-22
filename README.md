@@ -19,7 +19,7 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/tushar-ranjan-panigrahi" target="blank">
+<a href="[https://linkedin.com/in/tushar-ranjan-panigrahi](https://www.linkedin.com/in/tushar-ranjan-panigrahi-04bab32a9/?skipRedirect=true)" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="mailto:tusharpanigrahi21@gmail.com">
